@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNS Parents)) (VP (VBD loved) (NP (NNS tomatoes))) (. .))) 
+(ROOT (S (NP (NNS Fruits)) (VP (VBD were) (ADJP (JJ delicious))) (. .))) 

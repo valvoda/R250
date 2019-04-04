@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNS Houses)) (VP (VBP have) (NP (NNS doors))) (. .))) 
+(ROOT (S (NP (NNPS Shops)) (ADVP (RB also)) (VP (VBP have) (NP (NNS windows))) (. .))) 

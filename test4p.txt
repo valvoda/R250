@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNP John)) (VP (VBD stole) (NP (NNS flowers))) (. .))) 
+(ROOT (S (NP (PRP He)) (VP (VBD was) (VP (VB send) (PP (TO to) (NP (NN prison))))) (. .))) 

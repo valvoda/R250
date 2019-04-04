@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNS People)) (VP (VBD went) (PP (TO to) (NP (DT the) (NN beach)))) (. .))) 
+(ROOT (S (NP (DT The) (NN lake)) (VP (VBD was) (PP (IN near) (NP (DT the) (NN sea)))) (. .))) 

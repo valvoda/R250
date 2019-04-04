@@ -1,0 +1,2 @@
+(ROOT (S (NP (DT The) (NN stove)) (VP (VBZ is) (ADJP (JJ hot))) (. .))) 
+(ROOT (S (NP (DT The) (NN heat)) (VP (VBZ burns) (NP (DT the) (NNS eggs))) (. .))) 

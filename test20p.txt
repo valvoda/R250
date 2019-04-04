@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNPS Friends)) (VP (VBP play) (NP (NN soccer))) (. .))) 
+(ROOT (S (NP (NN Soccer)) (VP (VBZ is) (NP (DT a) (JJ popular) (NN game))) (. .))) 

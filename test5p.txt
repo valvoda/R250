@@ -1,0 +1,2 @@
+(ROOT (S (NP (NN Summer)) (VP (VBD came) (ADVP (RB fast))) (. .))) 
+(ROOT (S (NP (NN Summer)) (VP (VBD brought) (NP (NN sun))) (. .))) 

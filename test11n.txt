@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNP Mary)) (VP (VBD bought) (NP (NNS apples))) (. .))) 
+(ROOT (S (NP (DT The) (NNS oranges)) (VP (VBD were) (ADJP (JJ rotten))) (. .))) 

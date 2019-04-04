@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNPS Friends)) (VP (VBD ran) (PP (IN for) (NP (NN milk)))) (. .))) 
+(ROOT (S (NP (PRP They)) (VP (VBD bought) (NP (DT a) (NN dog))) (. .))) 

@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNS Orchards)) (VP (VBP provide) (NP (NN shade))) (. .))) 
+(ROOT (S (NP (NNS Benches)) (VP (VBP are) (ADJP (JJ good) (PP (IN for) (NP (NN rest))))) (. .))) 

@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNS Parents)) (VP (VBD loved) (NP (NNS children))) (. .))) 
+(ROOT (S (NP (PRP He)) (VP (VBD cared) (PP (IN for) (NP (PRP them)))) (. .))) 

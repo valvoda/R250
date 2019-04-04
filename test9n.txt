@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNS People)) (VP (VBD went) (PP (TO to) (NP (DT the) (NN beach)))) (. .))) 
+(ROOT (S (NP (DT Some) (NNS friends)) (VP (VBD had) (NP (NN sun) (NN tan))) (. .))) 

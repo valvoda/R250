@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNPS Friends)) (VP (VBP play) (NP (NN soccer))) (. .))) 
+(ROOT (S (NP (PRP They)) (VP (VBP like) (S (VP (TO to) (VP (VB kick) (NP (NNS balls)))))) (. .))) 

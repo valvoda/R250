@@ -1,0 +1,2 @@
+(ROOT (NP (NP (NP (NNS Dogs)) (PP (IN like) (S (VP (VBG running))))) (. .))) 
+(ROOT (S (NP (NNS Dogs)) (VP (VBP do) (RB not) (VP (VB like) (NP (NN swimming)))) (. .))) 
